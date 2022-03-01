@@ -1,0 +1,15 @@
+---
+title: "Project Outline"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Agenda
+
+-	Determine questions
+-	Set Goals and Objectives
+-	Identify data required to address and/or answer Goals and Objectives
+-	Set Action Items until next meeting
